@@ -1,0 +1,3 @@
+pageObjects\AddCustomerPage.class
+pageObjects\LoginPage.class
+pageObjects\SearchCustomerPage.class
